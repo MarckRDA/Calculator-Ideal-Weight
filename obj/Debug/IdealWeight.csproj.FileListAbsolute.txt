@@ -1,0 +1,10 @@
+E:\C#-projects\excercises\Testes_livro\idealWeight\IdealWeight\bin\Debug\IdealWeight.exe.config
+E:\C#-projects\excercises\Testes_livro\idealWeight\IdealWeight\bin\Debug\IdealWeight.exe
+E:\C#-projects\excercises\Testes_livro\idealWeight\IdealWeight\bin\Debug\IdealWeight.pdb
+E:\C#-projects\excercises\Testes_livro\idealWeight\IdealWeight\obj\Debug\IdealWeight.csprojAssemblyReference.cache
+E:\C#-projects\excercises\Testes_livro\idealWeight\IdealWeight\obj\Debug\IdealWeight.CalcIdealWeight.resources
+E:\C#-projects\excercises\Testes_livro\idealWeight\IdealWeight\obj\Debug\IdealWeight.Properties.Resources.resources
+E:\C#-projects\excercises\Testes_livro\idealWeight\IdealWeight\obj\Debug\IdealWeight.csproj.GenerateResource.cache
+E:\C#-projects\excercises\Testes_livro\idealWeight\IdealWeight\obj\Debug\IdealWeight.csproj.CoreCompileInputs.cache
+E:\C#-projects\excercises\Testes_livro\idealWeight\IdealWeight\obj\Debug\IdealWeight.exe
+E:\C#-projects\excercises\Testes_livro\idealWeight\IdealWeight\obj\Debug\IdealWeight.pdb
